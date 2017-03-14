@@ -5,6 +5,7 @@
     "keywords": ["boleto", "boleto bancario"],
     "homepage": "http://github.com/kriansa/openboleto",
     "license": "MIT",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Daniel Garajau",
